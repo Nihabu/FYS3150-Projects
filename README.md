@@ -4,3 +4,5 @@ Testing av tekst.
 Tester i terminal!
 
 Legger til enda noen forandringer.
+
+Og prøver igjen i terminal.
